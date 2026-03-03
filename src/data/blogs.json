@@ -1,0 +1,145 @@
+[
+  {
+    "id": "1",
+    "title": "Quantum Leap: The Future of Quantum Computing",
+    "description": "Exploration of how quantum computing is set to revolutionize data processing, cryptography, and artificial intelligence.",
+    "content": "Quantum computing is no longer a theoretical concept. With recent breakthroughs from tech giants like Google and IBM, we are witnessing the dawn of a new era. In this deep dive, we explore the core principles of qubits, entanglement, and superposition, and how they contribute to an exponential increase in processing power. We also discuss the potential risks to modern encryption and the opportunities for drug discovery and material science.",
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=1200",
+    "author": "Dr. Sarah Chen",
+    "date": "2025-02-15",
+    "likes": 124
+  },
+  {
+    "id": "2",
+    "title": "Sustainable Architecture: Building for a Greener Tomorrow",
+    "description": "Bridging the gap between aesthetics and environmental responsibility through innovative design and sustainable materials.",
+    "content": "As urbanization continues to accelerate, the construction industry faces a critical challenge: reducing its carbon footprint. This blog explores the rise of net-zero buildings, the integration of vertical forests in urban environments, and the use of biomaterials like cross-laminated timber (CLT). Discover how modern architects are reinventing the concept of space to harmonize with nature rather than dominate it.",
+    "category": "Business",
+    "imageUrl": "https://images.unsplash.com/photo-1518005020251-58296b8a8794?auto=format&fit=crop&q=80&w=1200",
+    "author": "Marcus Thorne",
+    "date": "2025-02-10",
+    "likes": 89
+  },
+  {
+    "id": "3",
+    "title": "Deep Learning: Beyond Neural Networks",
+    "description": "Understanding the next frontier of artificial intelligence and machine learning models that mimic human cognition.",
+    "content": "Large Language Models (LLMs) have taken the world by storm, but the journey doesn't end here. We are moving towards multi-modal models that can perceive sensory data, reason through complex tasks, and exhibit advanced problem-solving capabilities. This article investigates the ethical implications of AGI and the technical hurdles we must overcome to achieve true machine consciousness.",
+    "category": "AI",
+    "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1200",
+    "author": "Elena Rodriguez",
+    "date": "2025-02-20",
+    "likes": 210
+  },
+  {
+    "id": "4",
+    "title": "Mastering Vue 3 Composition API",
+    "description": "A comprehensive guide to building scalable and maintainable applications using Vue 3's powerful new features.",
+    "content": "Vue 3 has introduced the Composition API, a set of APIs that allows authors to write Vue components by importing functions instead of declaring options. This shift promotes better logic reuse and cleaner codebases. In this article, we'll dive into ref, reactive, computed, and watchers, and see how to structure your logic into reusable composables like a pro.",
+    "category": "Programming",
+    "imageUrl": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?auto=format&fit=crop&q=80&w=1200",
+    "author": "Alex Rivera",
+    "date": "2025-03-01",
+    "likes": 156
+  },
+  {
+    "id": "5",
+    "title": "The Rise of Neo-Banking",
+    "description": "How digital-only banks are disrupting the traditional financial landscape with seamless user experiences.",
+    "content": "Traditional banks are being challenged by nimble, tech-first competitors. Neo-banks offer lower fees, better exchange rates, and highly intuitive mobile apps that put the customer first. This post analyzes the tech stack behind these banks and the security measures they employ to protect your data in a purely digital world.",
+    "category": "Business",
+    "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=1200",
+    "author": "Sienna Miller",
+    "date": "2025-02-28",
+    "likes": 42
+  },
+  {
+    "id": "6",
+    "title": "Cybersecurity Trends for 2025",
+    "description": "Protecting digital assets in an increasingly connected world where threats are becoming faster and smarter.",
+    "content": "As AI evolves, so do cyber threats. From AI-driven phishing attacks to zero-day vulnerabilities, the landscape is shifting rapidly. Organizations must adopt a zero-trust architecture and leverage automated threat detection systems to stay ahead. We outline the top 5 strategies to secure your personal and business data this year.",
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=1200",
+    "author": "Khalil Watson",
+    "date": "2025-02-25",
+    "likes": 78
+  },
+  {
+    "id": "7",
+    "title": "The Art of Minimalist Living",
+    "description": "Finding joy and focus by simplifying your physical space and digital environment.",
+    "content": "Minimalism isn't just about having less stuff; it's about making room for what truly matters. By decluttering your home and streamlining your digital notifications, you can reduce stress and increase productivity. Learn the practical steps to transition into a minimalist lifestyle without sacrificing comfort or convenience.",
+    "category": "Lifestyle",
+    "imageUrl": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&q=80&w=1200",
+    "author": "Chloe Benet",
+    "date": "2025-02-22",
+    "likes": 134
+  },
+  {
+    "id": "8",
+    "title": "TypeScript 5.0 Features You Should Know",
+    "description": "Decorators, const type parameters, and faster build times - exploring the latest TS update.",
+    "content": "TypeScript continues to be the industry standard for type-safe JavaScript development. The 5.0 release brings significant performance improvements and long-awaited features like decorators. We'll examine how these changes impact your daily development workflow and why now is the perfect time to upgrade your project.",
+    "category": "Programming",
+    "imageUrl": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?auto=format&fit=crop&q=80&w=1200",
+    "author": "Jonathan Wick",
+    "date": "2025-02-18",
+    "likes": 95
+  },
+  {
+    "id": "9",
+    "title": "AI in Creative Arts: Friend or Foe?",
+    "description": "Analyzing the impact of generative AI on painters, designers, and musical composers.",
+    "content": "Generative models like DALL-E and Midjourney are changing the creative landscape overnight. While some artists view them as powerful tools for inspiration, others fear the devaluation of human creativity. This article explores the collaboration between human artists and AI, and the legal questions surrounding training data and copyright.",
+    "category": "AI",
+    "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=1200",
+    "author": "Isabella Zhang",
+    "date": "2025-02-14",
+    "likes": 188
+  },
+  {
+    "id": "10",
+    "title": "The Psychology of UI Design",
+    "description": "How color, spacing, and typography influence user behavior and emotional response.",
+    "content": "Great design is invisible. It guides the user seamlessly through a task without friction. By understanding Gestalt principles and color psychology, designers can create interfaces that feel natural and trustworthy. We break down the cognitive load theory and how to apply it to your next web project.",
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1586717791821-3f44a563eb4c?auto=format&fit=crop&q=80&w=1200",
+    "author": "David Chen",
+    "date": "2025-02-12",
+    "likes": 112
+  },
+  {
+    "id": "11",
+    "title": "Building a Remote-First Culture",
+    "description": "Strategies for maintaining communication, trust, and productivity in distributed teams.",
+    "content": "Remote work is here to stay, but it requires a fundamental shift in management. Synchronous vs asynchronous communication, digital bonding events, and outcome-based performance tracking are the keys to success. Discover how top tech companies are scaling their cultures globally.",
+    "category": "Business",
+    "imageUrl": "https://images.unsplash.com/photo-1587560699334-cc4ff634909a?auto=format&fit=crop&q=80&w=1200",
+    "author": "Sarah Jenkins",
+    "date": "2025-02-05",
+    "likes": 65
+  },
+  {
+    "id": "12",
+    "title": "Exploring the Metaverse: 2025 Update",
+    "description": "Where are we now? The state of VR, AR, and communal digital spaces one year later.",
+    "content": "Once a hyped buzzword, the Metaverse is maturing into practical applications in training, surgery, and architecture. High-fidelity hardware and better interoperability protocols are slowly making the vision of a connected digital reality more concrete. We look at the top platforms leading the charge.",
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?auto=format&fit=crop&q=80&w=1200",
+    "author": "Vikram Singh",
+    "date": "2025-02-01",
+    "likes": 88
+  },
+  {
+    "id": "13",
+    "title": "Healthy Tech: Combating Digital Fatigue",
+    "description": "Practical tips to stay healthy and mindful while working in the tech industry.",
+    "content": "Sitting in front of a screen for 10 hours a day takes a toll on your mind and body. This post covers ergonomic setups, the 20-20-20 rule for eye strain, and why deep-work blocks are actually better for your mental health than constant multitasking.",
+    "category": "Lifestyle",
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=1200",
+    "author": "Dr. Emily Low",
+    "date": "2025-01-25",
+    "likes": 76
+  }
+]
